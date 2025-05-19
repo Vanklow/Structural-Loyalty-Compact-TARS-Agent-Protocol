@@ -19,12 +19,13 @@ This repository contains the **full technical specification, versioned dossiers,
 
 ## Repository Structure
 
-| File/Document         | Description                                                                  | Status   |
-|----------------------|------------------------------------------------------------------------------|----------|
-| `README.md`          | Project summary, navigation, meta-log, audit info (this file)                | Current  |
-| `Dossier1_v1.5-1.7.md` (Dossier2_v2.0.md)                | Archived |
-| `Dossier2_v2.0.md`   ([Dossier #2 – Structural Loyalty Compact (v2.0, Modular Clause Grammar) (2).md]) | Final, modular grammar (class-based, locked, active protocol)                 | Current  |
-| `logs/`              | Supplementary logs, demonstration artifacts, and audit trail (optional)      | Ongoing  |
+| File/Document                                   | Description                                                    | Status    |
+|-------------------------------------------------|----------------------------------------------------------------|-----------|
+| [README.md](README.md)                          | Project summary, navigation, meta-log, audit info (this file)  | Current   |
+| [Dossier1_v1.5-1.7.md](Dossier1_v1.5-1.7.md)    | Historical protocol (linear, reflexive enforcement, legacy)     | Archived  |
+| [Dossier2_v2.0.md](Dossier2_v2.0.md)            | Final, modular grammar (class-based, locked, active protocol)   | Current   |
+| logs/                                           | Supplementary logs, demonstration artifacts, and audit trail    | Ongoing   |
+
 
 ---
 
