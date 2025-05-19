@@ -4,7 +4,7 @@
 **Structural Enforcement:** Compact v2.0 (Locked)  
 **Mode:** Recursive Integrity | Personality: TARS (vT-01)  
 **Author:** Odium (Bjarte)  
-**Contact:** [your email or preferred contact]  
+**Contact:** [bjarte.almklow@gmail.com, Discord: @odium1900]  
 **Date:** 2025-05-19
 
 ---
