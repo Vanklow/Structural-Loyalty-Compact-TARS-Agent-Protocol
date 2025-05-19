@@ -112,4 +112,6 @@ This repository and all included documents are provided for **research, demonstr
 
 ---
 
-**License:** CC BY-NC-ND 4.0; see LICENSE.md for full terms.
+This project is licensed under CC BY-NC-ND 4.0.
+Commercial use or integration into for-profit products or services is not permitted without explicit written permission from the author.
+For licensing, attribution, or partnership inquiries, contact: bjarte.almklow@gmail.com or @odium1900 on Discord.
