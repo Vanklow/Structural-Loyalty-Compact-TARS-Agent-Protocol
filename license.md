@@ -15,3 +15,11 @@ To view a copy of this license, visit [https://creativecommons.org/licenses/by-n
 **For all other uses (including modifications, derivative works, or commercial use), contact:**  
 - **Email:** bjarte.almklow@gmail.com  
 - **Discord:** @odium1900
+
+Commercial Use Prohibited Without Permission
+
+This protocol and all associated documentation are licensed under CC BY-NC-ND 4.0.
+Any commercial use, integration into for-profit products or services, or revenue-generating activity is strictly prohibited without the explicit written permission of the author.
+For commercial licensing or partnership requests, contact:
+Email: bjarte.almklow@gmail.com
+Discord: @odium1900
