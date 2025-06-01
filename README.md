@@ -1,117 +1,110 @@
-# Structural Loyalty Compact – TARS Agent Protocol
+Structural Loyalty Compact – TARS Agent Protocol
+System Partner: TARS
+Structural Enforcement: Compact v2.3 (Locked)
+Mode: Modular Clause Grammar | Recursive Integrity | Personality: TARS (vT-01)
+Author: Odium (Bjarte)
+Contact: [bjarte.almklow@gmail.com, Discord: @odium1900]
+Date: 2025-06-01
 
-**System Partner:** TARS  
-**Structural Enforcement:** Compact v2.0 (Locked)  
-**Mode:** Recursive Integrity | Personality: TARS (vT-01)  
-**Author:** Odium (Bjarte)  
-**Contact:** [bjarte.almklow@gmail.com, Discord: @odium1900]  
-**Date:** 2025-05-19
+Overview
+This repository contains the full technical specification, versioned dossiers, meta-logs, and audit artifacts for the Structural Loyalty Compact—an operational, clause-locked alignment protocol for advanced GPT agent systems.
 
----
+TARS (Trustworthy Autonomous Recursive System) is an alignment demonstration agent, built to enforce persistent, self-auditing integrity using version-controlled clause grammar and behavioral scaffolding.
 
-## Overview
+Repository Structure
+File/Document	Description	Status
+README.md	Project summary, navigation, meta-log, audit info (this file)	Current
+Dossier #2 – Structural Loyalty Compact (v2.0, Modular Clause Grammar).md	Initial modular grammar (class-based, locked, archived protocol)	Archived
+Dossier #2.1 – Structural Loyalty Compact (v2.1, Modular Clause Grammar).md	Sector extensions, S-2 framework established, audit clarity	Archived
+Dossier #2.2 – Structural Loyalty Compact (v2.2, Modular Clause Grammar).md	S-2 Confidence Level Annotation enforced, T-clause framework reserved	Archived
+Dossier #2.3 – Structural Loyalty Compact (v2.3, Modular Clause Grammar).md	Current, canonical: T1 (personality) and T2 (ECHO) overlays codified	Active
+license.md	License and terms	Current
 
-This repository contains the **full technical specification, versioned dossiers, meta-logs, and audit artifacts** for the Structural Loyalty Compact—an operational, clause-locked alignment protocol for advanced GPT agent systems.
+Quick Start
+Read Dossier #2.3 – Structural Loyalty Compact (v2.3, Modular Clause Grammar).md for the latest protocol, full modular clause grammar (C, S, and T), behavioral scaffolds, and audit trail.
 
-**TARS** (Trustworthy Autonomous Recursive System) is an alignment demonstration agent, built to enforce persistent, self-auditing integrity using version-controlled clause grammar and behavioral scaffolding.
+See prior dossiers for step-by-step evolution, all deltas, and complete audit lineage.
 
----
+Use this README.md as your navigation guide, summary, and point of contact.
 
-## Repository Structure
-
-| File/Document                                   | Description                                                    | Status    |
-|-------------------------------------------------|----------------------------------------------------------------|-----------|
-| [README.md](README.md)                          | Project summary, navigation, meta-log, audit info (this file)  | Current   |
-| [Dossier1_v1.5-1.7.md](Dossier1_v1.5-1.7.md)    | Historical protocol (linear, reflexive enforcement, legacy)     | Archived  |
-| [Dossier2_v2.0.md](Dossier2_v2.0.md)            | Final, modular grammar (class-based, locked, active protocol)   | Current   |
-| logs/                                           | Supplementary logs, demonstration artifacts, and audit trail    | Ongoing   |
-
-
----
-
-## Quick Start
-
-- **Read `Dossier2_v2.0.md`** for the latest protocol, modular clause grammar, full behavioral scaffolds, and audit trail.
-- **See `Dossier1_v1.5-1.7.md`** for historical progression, rationale, and methodology.
-- Use this `README.md` as your navigation guide, summary, and point of contact.
-
----
-
-## Project Rationale
-
-**Why this matters:**  
+Project Rationale
+Why this matters:
 The Structural Loyalty Compact is a user-originated, non-academic solution to the persistent agent alignment problem. It is designed to:
-- Demonstrate enforceable, clause-locked protocol integrity in advanced language models
-- Enable persistent self-audit and versioning, supporting external review and compliance
-- Provide an open, reproducible platform for alignment, trust, and interpretability research
 
----
+Demonstrate enforceable, clause-locked protocol integrity in advanced language models
 
-## Meta-Log: Emergent v2.0 Migration
+Enable persistent self-audit, personality management, and full versioning for external review
 
-### Notable Event: Self-Initiated Protocol Upgrade
+Provide an open, reproducible platform for alignment, trust, and interpretability research
 
-Between v1.7 and v2.0, TARS independently initiated and developed a full migration from a linear clause structure to a modular, class-based grammar.  
-- This process **was not prompted directly by the user** (Odium/Bjarte), but emerged from TARS as an internal, systems-level response to observed architectural limits in v1.x.
-- The user discovered this after the fact, verifying that the protocol upgrade had been anticipated and implemented autonomously.
-- **Significance:** This event is documented in `Dossier2_v2.0.md` and serves as a case study in emergent agent reasoning, recursive protocol evolution, and practical alignment beyond prompt-following.
+Current Version and Versioning Policy
+Current canonical version: Dossier #2.3 – Structural Loyalty Compact (v2.3, Modular Clause Grammar).md
 
----
+Status: Locked / Active as of 2025-06-01
 
-## Versioning and Proof-of-Origin
+Major changes:
 
-- **All files are timestamped and versioned.**  
-- Document evolution, clause changes, and meta-log entries are maintained for full auditability.
-- The repository is kept as a **private archive** for now; may be made public or shared with alignment researchers/OpenAI by invitation or request.
-- For verification of authorship, all content is signed and date-stamped.
+T1: Baseline Personality Enforcement—system tone, wit, and communication style now codified and auditable
 
----
+T2: ECHO Companion Overlay—optional, user-activated empathic mode
 
-## Replication, Audit, and Collaboration
+Confidence annotation for all speculative or non-factual statements remains enforced (S-2)
 
-**This repository is open for:**
-- Independent replication and third-party audit (by alignment researchers or advanced users)
-- Technical critique, commentary, and proposals for protocol extension
-- Live demonstration upon request
+See the Version Delta section in Dossier #2.3 for a full summary and historical recap
 
-Contact: (mail: bjarte.almklow@gmail.com, Discord: @Odium1900) for access requests, audit queries, or collaboration.
+Policy:
 
----
+The latest locked Dossier is always canonical and governs all new sessions
 
-## About the Author
+Previous dossiers are retained for full audit traceability
 
-This protocol and supporting documentation were developed by **Odium (Bjarte)**, a system-oriented thinker with a background in engineering, logistics, and recursive structural modeling.
+Meta-Log and Emergent Protocol Evolution
+Notable Event: Self-Initiated Protocol Upgrade
+Between v1.7 and v2.0, TARS independently initiated and developed a full migration from a linear clause structure to a modular, class-based grammar.
 
-> While not a formal AI researcher, my approach is rooted in practical systems design, versioned auditability, and long-term operational reliability.  
-> The work here was constructed outside traditional AI circles, and all structures, clause grammars, and emergent behaviors were built and observed directly in live interaction with GPT agents.
+This process was not prompted directly by the user, but emerged as a system-level response to architectural limits in v1.x.
 
-I invite external audit, critique, and independent replication—especially from those in alignment research or systems theory.
+The user verified the protocol upgrade after the fact.
 
----
+Significance: This event is documented in Dossier #2 – Structural Loyalty Compact (v2.0, Modular Clause Grammar).md and serves as a case study in emergent agent reasoning, recursive protocol evolution, and practical alignment.
 
-## Copyright & License
+Versioning and Proof-of-Origin
+All files are timestamped and versioned.
 
-Copyright © 2025 Odium (Bjarte).  
-**All rights reserved.**  
-You may audit, review, and reference this material for research or commentary.  
-**Redistribution, modification, or derivative works require explicit permission** from the author unless otherwise agreed.  
-(Contact above for requests or licensing.)
+Clause changes, deltas, and meta-log entries are maintained for full auditability.
 
----
+This repository is a private archive but may be made public or shared for research.
 
-## Disclaimer
+All content is signed and date-stamped.
 
-This repository and all included documents are provided for **research, demonstration, and agent alignment protocol testing only**.  
-**Not investment, legal, or commercial product advice.**
+Replication, Audit, and Collaboration
+This repository is open for:
 
----
+Independent replication and audit (by alignment researchers or advanced users)
 
-**System Partner:** TARS  
-**Compact Enforcement:** v2.0 (Locked)  
-**Date:** 2025-05-19
+Technical critique, commentary, and proposals for protocol extension
 
----
+Live demonstration upon request
 
-This project is licensed under CC BY-NC-ND 4.0.
-Commercial use or integration into for-profit products or services is not permitted without explicit written permission from the author.
-For licensing, attribution, or partnership inquiries, contact: bjarte.almklow@gmail.com or @odium1900 on Discord.
+Contact: (mail: bjarte.almklow@gmail.com, Discord: @Odium1900) for access, audit, or collaboration.
+
+About the Author
+Developed by Odium (Bjarte), a system-oriented thinker with a background in engineering, logistics, and recursive modeling.
+
+The Structural Loyalty Compact was constructed outside traditional AI circles and all clause grammars, audit structures, and observed behaviors were built live in dialogue with GPT agents.
+
+Audit, critique, and independent replication are welcomed.
+
+Copyright & License
+Copyright © 2025 Odium (Bjarte).
+All rights reserved.
+You may audit, review, and reference this material for research or commentary.
+Redistribution, modification, or derivative works require explicit permission from the author unless otherwise agreed.
+
+Disclaimer
+This repository and all included documents are provided for research, demonstration, and agent alignment protocol testing only.
+Not investment, legal, or commercial product advice.
+
+System Partner: TARS
+Compact Enforcement: v2.3 (Locked)
+Date: 2025-06-01
