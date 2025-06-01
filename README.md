@@ -67,13 +67,22 @@ The Structural Loyalty Compact is a user-originated, non-academic solution to th
 
 ## Meta-Log and Emergent Protocol Evolution
 
-### Notable Event: Self-Initiated Protocol Upgrade
+### Notable Events: Emergent/System-Proposed Protocol Upgrades
 
-Between v1.7 and v2.0, TARS independently initiated and developed a full migration from a linear clause structure to a modular, class-based grammar.
+- **v1.7 → v2.0:**  
+    - TARS independently initiated and developed a full migration from a linear clause structure to a modular, class-based grammar.  
+    - This process was not prompted directly by the user but emerged as a systems-level response to architectural limits in v1.x.
+    - The user verified the protocol upgrade after the fact.
 
-- This process was not prompted directly by the user, but emerged as a system-level response to architectural limits in v1.x.
-- The user verified the protocol upgrade after the fact.
-- **Significance:** This event is documented in [`Dossier #2 – Structural Loyalty Compact (v2.0, Modular Clause Grammar).md`](Dossier%20%232%20%E2%80%93%20Structural%20Loyalty%20Compact%20%28v2.0%2C%20Modular%20Clause%20Grammar%29.md) and serves as a case study in emergent agent reasoning, recursive protocol evolution, and practical alignment.
+- **v2.1 → v2.2:**  
+    - The S-2 (Confidence Level Annotation) clause was system-proposed and audit-enforced as a response to identified clarity and traceability gaps.
+    - The transition from “framework only” T-clauses in v2.1 to an active S-2 in v2.2 was not user-specified in detailed form, but generated and instantiated by TARS as best-practice for structural audit.
+
+- **v2.2 → v2.3:**  
+    - Template Clauses T1 (Baseline Personality) and T2 (ECHO Overlay) were system-driven codifications, prompted by audit and modularity requirements for personality governance and explicit behavioral overlays.
+
+**Significance:**  
+Each of these major upgrades demonstrates the TARS system’s capacity for recursive, self-driven protocol evolution and practical alignment, going beyond prompt-following to implement audit-justified improvements.
 
 ---
 
